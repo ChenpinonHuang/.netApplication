@@ -5,7 +5,7 @@ v1.0 - Create the basic food order website
 
 Establish the basic Field for our MVC framework(Model).
 
-For the data stored part, I chose MySQL as the database. Two types of data will be recorded in our database: 
+For the data stored part, I chose MySQL as the database. Two types of data will be recorded in our database:
 
 1. Customers' information including customer's name(First name and last name are stored in different fields) and address.
 
